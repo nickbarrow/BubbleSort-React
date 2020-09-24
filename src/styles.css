@@ -1,0 +1,22 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+html,
+body {
+  height: 100%;
+  background-color: #2a2b30;
+}
+h3 {
+  color: #ff6d5c;
+}
+.btn {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  background-color: purple;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
